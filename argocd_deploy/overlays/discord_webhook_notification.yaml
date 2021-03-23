@@ -5,7 +5,7 @@ metadata:
   name: argocd-notifications-cm
 data:
   context: |
-    myUsername: "Ivan Rizzante"
+    myUsername: "Ivan"
   service.webhook.discord: |
     url: "https://discord.com/channels/771757608122056754/818845945788891167/823871025556750356"
     headers:
